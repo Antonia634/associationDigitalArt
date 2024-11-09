@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Madimi+One&display=swap");
+
+.nav-link,
+.dropdown-item,
+.card-title {
+  font-family: Madimi One, sans-serif;
+}
+
+.btn-dark {
+  background-color: rgb(25, 26, 25);
+}
+
+.bg-body-dark {
+  background-color: rgb(25, 26, 25) !important;
+}
+
+.btn-light {
+  background-color: rgb(235, 235, 235);
+}
+
+.bg-body-light {
+  background-color: rgb(235, 235, 235) !important;
+}
